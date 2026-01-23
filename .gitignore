@@ -1,5 +1,4 @@
-@"
-# PyCharm
+﻿# PyCharm
 .idea/
 
 # Python
@@ -17,4 +16,3 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
-"@ | Out-File -FilePath .gitignore -Encoding UTF8
