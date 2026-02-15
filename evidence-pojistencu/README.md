@@ -1,7 +1,4 @@
 # Evidence pojištěných
-
-Konzolová aplikace pro správu evidence pojištěných osob napsaná v Pythonu. Projekt vznikl jako závěrečná práce kurzu Python - Akreditovaný rekvalifikační kurz - online.
-
 ## Popis
 
 Aplikace umožňuje evidovat pojištěné osoby, vyhledávat je podle jména a příjmení a vypsat celý seznam. Všechna data jsou validována a uložena v paměti během běhu programu.
@@ -118,7 +115,3 @@ Aplikace kontroluje:
 **Patrik Hübner**
 - GitHub: [@hubnerpatrik ](https://github.com/hubnerpatrik)
 - Email: hubnerpatrik00@gmail.com
-
-## Licence
-
-Tento projekt je vytvořen pro vzdělávací účely.
