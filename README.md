@@ -3,6 +3,12 @@
 
 Aplikace umožňuje evidovat pojištěné osoby, vyhledávat je podle jména a příjmení a vypsat celý seznam. Všechna data jsou validována a uložena v paměti během běhu programu.
 
+<img width="314" height="208" alt="obrazek" src="https://github.com/user-attachments/assets/a5543351-820c-46b2-bfe3-772cf46d145a" />
+<img width="358" height="311" alt="obrazek" src="https://github.com/user-attachments/assets/1155e9ea-1e61-4923-b39d-f14619288507" />
+
+
+
+
 ## Funkce
 
 - **Přidání nového pojištěného** - s validací všech vstupních údajů
