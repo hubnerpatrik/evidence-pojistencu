@@ -25,7 +25,7 @@ Aplikace umožňuje evidovat pojištěné osoby, vyhledávat je podle jména a p
 
 1. Naklonuj repozitář:
 ```bash
-git clone https://github.com/tvoje-jmeno/evidence-pojistencu.git
+git clone https://github.com/hubnerpatrik/evidence-pojistencu.git
 cd evidence-pojistencu
 ```
 
